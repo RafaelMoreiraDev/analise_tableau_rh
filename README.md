@@ -42,10 +42,7 @@ o contexto da história.
 - Primeiro baixei os dados do respositório
 - [Link para baixar os dados](https://docs.google.com/spreadsheets/d/16pyFQ9Bb1moX9I7kbj6Q3Vx9wkeOK7CB/edit#gid=437389207)
 ---
-- Importei os dados para o tableau e fiz todo o tratamento nos dados cm valores nulos, colunas vazias ou com formato inadequado.
- 
- Ao analisar os dados fornecidos pelo RH pude ver que tem alguns dados com valores muito elevados de motivos e com pouca capacidade de impactar a empresa e alguns valores bem diferentes do mesmo motivo quando é preenchido pelo RH ou quando a pessoa preenche sozinha sem auxilio de um terceiro.
-Logo em seguida comecei a gerar os gráficos e fui tirando conclusões e vendo quais gráficos eram melhor, e percebi que alguns gráficos precisam de bem mais informações para poder funcionar melhor. Um bom exemplo foi o gráfico de linhas. que usado pra comparar valores por categoria dão uma falsa sensação de relação entre as catégorias. Mais detlhes veja o projeto completo.
+- Importei os dados para o Tableau e fiz todo o tratamento nos dados com valores nulos, colunas vazias ou com formato inadequado. Ao analisar os dados fornecidos pelo RH, pude ver que existem alguns dados com valores muito elevados de motivos e com pouca capacidade de impactar a empresa, bem como alguns valores bem diferentes do mesmo motivo quando é preenchido pelo RH ou quando a pessoa preenche sozinha, sem auxílio de um terceiro. Logo em seguida, comecei a gerar os gráficos e fui tirando conclusões, observando quais gráficos funcionavam melhor. Percebi que alguns gráficos precisam de muito mais informações para funcionar melhor. Um bom exemplo foi o gráfico de linhas, que, quando usado para comparar valores por categoria, dá uma falsa sensação de relação entre as categorias. Para mais detalhes, veja o projeto completo.
 
 ### Ferramentas utilizadas no projeto:
 - Google Colab: Criação da análise e narrativa
