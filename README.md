@@ -1,8 +1,16 @@
 # Análise de dados com Tableau 
 ### Projeto de análise de dados usando tableau pra verificar o porque pessoas estão deixando a empresa
 ---
-### Projeto desenvolvido no módulo 5 da Resilia Educação do curso Analista de Dados.
+### Projeto desenvolvido no módulo 5 da Resilia Educação do curso Analista de Dados. 
+--- 
+### Estrutura:
+- Diretório analise_rh > Contém o arquivo com a análise exploratória
+- Diretório img contem todas as imagens e prints do projeto
+- README.md Contém instruções do projeto e meios de contato
 
+
+
+### Contexto 
 
 - Você foi contratado como analista de dados e seu chefe, o Chief Marketing
 Officer (CMO), pediu que você trabalhasse com seu Parceiro de Negócios
@@ -31,6 +39,41 @@ vantagens e insuficiências de cada uma.
 6. Como você pode gerar essas informações em uma história orientada por dados
 para seu chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar
 o contexto da história.
-
+- Primeiro baixei os dados do respositório
+- [Link para baixar os dados](https://docs.google.com/spreadsheets/d/16pyFQ9Bb1moX9I7kbj6Q3Vx9wkeOK7CB/edit#gid=437389207)
 ---
- Ao analisar os dados fornecidos pelo RH Podemos ver que tem alguns dados com valores muito elevados de motivos e com pouca capacidade de impactar a empresa e alguns valores bem diferentes de o mesmo motivo quando é preenchido pelo RH ou quando a pessoa preenche sozinha sem auxilio de um terceiro 
+- Importei os dados para o tableau e fiz todo o tratamento nos dados cm valores nulos, colunas vazias ou com formato inadequado.
+ 
+ Ao analisar os dados fornecidos pelo RH pude ver que tem alguns dados com valores muito elevados de motivos e com pouca capacidade de impactar a empresa e alguns valores bem diferentes do mesmo motivo quando é preenchido pelo RH ou quando a pessoa preenche sozinha sem auxilio de um terceiro.
+Logo em seguida comecei a gerar os gráficos e fui tirando conclusões e vendo quais gráficos eram melhor, e percebi que alguns gráficos precisam de bem mais informações para poder funcionar melhor. Um bom exemplo foi o gráfico de linhas. que usado pra comparar valores por categoria dão uma falsa sensação de relação entre as catégorias. Mais detlhes veja o projeto completo.
+
+### Ferramentas utilizadas no projeto:
+- Google Colab: Criação da análise e narrativa
+- Git / GitHub: Para versionamento e armazenar o código
+Visual Studio Code: versionamento e organização das pastas
+- Tableau: Tratamentos, análises e geração dos gráficos 
+---
+### Links úteis
+- [Projeto Google Colab](https://colab.research.google.com/drive/1zu5wfuf4wJMqiHyeG1vkgyZWBYgtJnls?usp=sharing)
+
+- [Link da análise no Tableau](https://public.tableau.com/app/profile/rafael.antonio1559/viz/Planilhadervores/PainelTotal)
+
+
+### Contato
+- [GitHub](https://github.com/RafaelMoreiraDev)
+- [Linkedin](https://www.linkedin.com/in/rafael-antonio-759a04241)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
